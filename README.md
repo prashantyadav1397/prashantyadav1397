@@ -3,6 +3,9 @@
     </h2>
 </div>
 
+Profile Views 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantyadav1397&label=Profile%20views&color=0e75b6&style=flat" alt="manish0502" /> </p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2b8ce2&size=20&lines=Full+Stack+Developer;UI/UX+Designer;Computer+Science+Student;Technology+Enthusiast;Always+Learning+New+Things;And+A+Proud+Indian....)](https://git.io/typing-svg)
 
 <p>Quick Stats: -</p>
