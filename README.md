@@ -10,5 +10,5 @@
 ![followers](https://img.shields.io/github/followers/prashantyadav1397?style=for-the-badge&logo=github) 
 ![stars](https://img.shields.io/github/stars/prashantyadav1397?style=for-the-badge&logo=github)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantyadav1397&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prashantyadav1397&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantyadav1397&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prashantyadav1397&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
