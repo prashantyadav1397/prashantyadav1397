@@ -4,8 +4,7 @@
 <div>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation%20Mono&color=blue&size=16&lines=Full+Stack+Developer;UI/UX+Designer;Computer+Science+Student;Technology+Enthusiast;Always+Learning+New+Things;And+A+Proud+Indian....)](https://git.io/typing-svg)
-
-<p align="center"> 
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Liberation%20Mono&color=blue&size=16&width=500&height=32&lines=Full+Stack+Developer;UI/UX+Designer;Computer+Science+Student;Technology+Enthusiast;Always+Learning+New+Things;And+A+Proud+Indian"></a>
 </p>
+
