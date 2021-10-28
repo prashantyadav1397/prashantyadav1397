@@ -72,5 +72,4 @@
 <br>
 
 ### 🤔 What's Next: -
-<br>
 <h4>Probably make a website and blog about how I made it 😉. Stay tuned for more.</h4>
