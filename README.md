@@ -6,8 +6,8 @@
 <div>
   <span>
     <p align="center"> #excelsior #learner</p>
-    <p align="center"><i>"I got promises to keep! And miles to go before I sleep!"</i></p>
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=prashantyadav1397&label=Profile%20views&color=blue&style=flat-square" alt="prashantyadav1397" /></p> 
+    <p align="center"><i>"I have promises to keep! And miles to go before I sleep!"</i></p>
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=prashantyadav1397&label=Profile%20views&color=blue&style=flat-square" /></p> 
   </span>
 </div>
 
