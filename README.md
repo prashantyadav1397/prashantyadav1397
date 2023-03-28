@@ -55,13 +55,6 @@
 </p>
 <br>
 
-### 👍 Contributions: - 
-<br>
-<p align="left">
-  <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=prashantyadav1397&theme=github&hide_border=true&area=true"/>
-</p>
-<br>
-
 ### 🤝🏻 Connect With Me: -
 <br>
 
